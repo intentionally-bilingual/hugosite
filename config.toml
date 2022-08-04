@@ -1,0 +1,56 @@
+# Site settings
+baseURL = "http://cytodata.org/"
+languageCode = "en-us"
+title = "CytoData Society"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+# Menu
+[menu]
+  [[menu.main]]
+    identifier = "symposia"
+    name = "Symposia"
+    url = "/symposia"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "leadership"
+    name = "Leadership"
+    url = "/leadership"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "society"
+    name = "Society"
+    url = "/society"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 50
+
+# Site parameters
+[params]
+
+    # Meta
+    description = "CytoData Society"
+    author = "Shantanu Singh & Tom Nijhof"
+    keywords = "biology, computer vision, machine learning, drug discovery, high-content imaging, microscopy, bioinformatics, computational biology"
+    
+    # Back-to-top button name
+    bttButton = ""

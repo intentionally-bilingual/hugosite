@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+
+<div class="container-fluid">
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  <ul class="list-group">
+    {{ range.Data.Pages }}
+    <div class="card p-3">
+      <div class="d-flex justify-content-between align-items-center">
+        <div class="user d-flex flex-row align-items-center">
+          <img
+            src="/./main_files/{{.Params.image}}"
+            width="100"
+            class="user-img rounded-circle mr-2"
+          />
+          <span class="mx-auto">
+            <a href="{{ .RelPermalink }}" class="mx-3 text-reset text-center stretched-link"
+              >{{ .Title }}</a
+            >
+          </span>
+        </div>
+        <small>{{ .Date.Format "2 January 2006" }}</small>
+      </div>
+    </div>
+    {{ end }}
+  </ul>
+</div>
+
+{{ partial "footer.html" . }}
