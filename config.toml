@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://cytodata.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "CytoData Society"
+title = "Intentionally Bilingual"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -48,9 +48,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 
     # Meta
-    description = "CytoData Society"
-    author = "Shantanu Singh & Tom Nijhof"
-    keywords = "biology, computer vision, machine learning, drug discovery, high-content imaging, microscopy, bioinformatics, computational biology"
+    description = "Intentionally Bilingual"
+    author = "Nimke Nijhof"
+    keywords = "bilingualism, parenting"
     
     # Back-to-top button name
     bttButton = ""
