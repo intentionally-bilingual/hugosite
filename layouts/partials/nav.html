@@ -1,31 +1,26 @@
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <div class="container">
-    <a class="navbar-brand" href="/">
-      <img src="/img/logo.png" height="50" class="d-inline-block align-top" alt="PUBG Indonesia">
-    </a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
-      data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
-      aria-label="Toggle navigation">
-      Menu
-    </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      {{ $currentPage := . }}
-      <ul class="navbar-nav ml-auto">
-        {{ range.Site.Sections }}
-        <li class="nav-item dropdown">
-          <a class="nav-link" href="{{.URL}}">
+<nav class="bg-gray-700 sticky top-0 z-50">
 
-            <span>{{ .Name }}</span>
-          </a>
-          <div class="dropdown-content">
-            {{ range.Data.Pages }}
-            <a href="{{ .RelPermalink }}" class="mx-3 text-reset text-center stretched-link">{{ .Title }}</a>
-            {{ end }}
-          </div>
-        </li>
-        {{end}}
-      </ul>
+  {{ $currentPage := . }}
+  <div class="flex justify-between">
+    <div class="router-link-default dropdown">
+      <a class="navbar-brand" href="/">
+        <img src="/img/logo.png" height="50" class="d-inline-block align-top" alt="{{ .Site.Title }}">
+      </a>
     </div>
+    {{ range.Site.Sections }}
+    <div class="router-link-default dropdown">
+      <a class="nav-link" href="{{.URL}}">
+
+        <span>{{ .Name }}</span>
+      </a>
+      {{/* <div class="block">
+        {{ range.Data.Pages }}
+        <a href="{{ .RelPermalink }}" class="mx-3 text-reset text-center stretched-link">{{ .Title }}</a>
+        {{ end }}
+      </div> */}}
+    </div>
+    {{end}}
+  </div>
   </div>
 </nav>

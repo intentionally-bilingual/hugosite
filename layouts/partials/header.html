@@ -2,22 +2,66 @@
 <html id="html" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
 <head>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-        crossorigin="anonymous"></script>
-    <meta http-equiv="content-type" content="text/html;charset=utf-8">
-    <meta name="viewport" content="width=device-width" />
-    <title>{{ .Site.Title }}</title>
-    <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
-    <meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}">
-    {{ .Hugo.Generator }}
-    {{ partial "style.html" . }}
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <meta name="viewport" content="width=device-width" />
+  <title>{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
+  <meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style type="text/tailwindcss">
+    @layer utilities {
+            h1 {
+                @apply text-3xl pb-3;
+              }
+              h2 {
+                @apply text-2xl;
+              }
+              p {
+                @apply pb-4 mx-1;
+              }
+              body {
+              @apply bg-gray-300
+              }
+        }
+
+        @layer components {
+            .router-link-default {
+                @apply text-gray-300
+                  hover:bg-gray-100 hover:text-blue-500
+                  px-3
+                  py-2
+                  m-2
+                  rounded-full
+                  text-lg
+                  font-bold
+              }
+          .router-link-exact-active {
+            @apply rounded-full bg-gray-100 text-blue-500 w-auto;
+          }
+          .page {
+            @apply flex-col
+            justify-center
+            bg-gray-100
+            md:w-3/4
+            md:max-w-5xl
+            w-full
+            px-3
+            md:px-6
+            xl:px-36
+            py-1
+            md:py-6
+            shadow-xl
+            shadow-gray-500
+            md:rounded-t-xl
+            min-h-screen
+          }
+        }
+      </style>
+  {{ .Hugo.Generator }}
 </head>
 
 <body>
 
-    {{ partial "nav.html" . }}
+  {{ partial "nav.html" . }}
 
-    <main class="content">
+  <main class="content">
