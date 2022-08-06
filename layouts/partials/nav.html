@@ -10,9 +10,11 @@
 
   {{ $currentPage := . }}
   <div class="flex justify-center md:justify-between h-full">
-    <div class="router-link-default">
+    <div>
       <a class="navbar-brand" href="/">
-        <img src="/img/logo.png" height="50" class="d-inline-block align-top" alt="{{ .Site.Title }}">
+        <div class="router-link-default">
+          <img src="/img/logo.png" height="50" class="d-inline-block align-top" alt="{{ .Site.Title }}">
+        </div>
       </a>
     </div>
 
