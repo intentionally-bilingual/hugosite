@@ -1,24 +1,35 @@
 <!-- Navigation -->
-<nav class="bg-gray-700 sticky top-0 z-50">
+<nav class="bg-green-800 sticky top-0 z-50">
 
   {{ $currentPage := . }}
-  <div class="flex justify-between">
-    <div class="router-link-default dropdown">
+  <div class="flex justify-around">
+    <div class="router-link-default">
       <a class="navbar-brand" href="/">
         <img src="/img/logo.png" height="50" class="d-inline-block align-top" alt="{{ .Site.Title }}">
       </a>
     </div>
-    {{ range.Site.Sections }}
-    <div class="router-link-default dropdown">
-      <a class="nav-link" href="{{.URL}}">
 
-        <span>{{ .Name }}</span>
-      </a>
-      {{/* <div class="block">
+    {{ range.Site.Sections }}
+    <div class="group">
+      <div>
+        <a class="nav-link" href="{{.RelPermalink}}">
+          <div class="router-link-default">
+            <span>{{ .Name }}</span>
+          </div>
+        </a>
+
+      </div>
+
+      <div class="hidden group-hover:block absolute flex-col bg-green-800 text-lg
+      font-bold rounded-b-lg">
         {{ range.Data.Pages }}
-        <a href="{{ .RelPermalink }}" class="mx-3 text-reset text-center stretched-link">{{ .Title }}</a>
+        <div class="px-2 py-1 mx-2">
+
+          <a href="{{ .RelPermalink }}" class="text-gray-100">📜 {{ .Title }}</a>
+        </div>
         {{ end }}
-      </div> */}}
+      </div>
+
     </div>
     {{end}}
   </div>
