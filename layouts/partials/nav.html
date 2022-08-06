@@ -1,37 +1,85 @@
 <!-- Navigation -->
+<script>
+  let isMenuOpen = false
+  function toggleMenu() {
+    var element = document.getElementById("mobileMenu");
+    element.classList.toggle("hidden");
+  }
+</script>
 <nav class="bg-green-800 sticky top-0 z-50">
 
   {{ $currentPage := . }}
-  <div class="flex justify-around">
+  <div class="flex justify-center md:justify-between h-full">
     <div class="router-link-default">
       <a class="navbar-brand" href="/">
         <img src="/img/logo.png" height="50" class="d-inline-block align-top" alt="{{ .Site.Title }}">
       </a>
     </div>
 
-    {{ range.Site.Sections }}
-    <div class="group">
-      <div>
-        <a class="nav-link" href="{{.RelPermalink}}">
-          <div class="router-link-default">
-            <span>{{ .Name }}</span>
-          </div>
-        </a>
+    {{/* Options for medium and bigger screens */}}
+    <div class="hidden md:flex justify-around">
 
-      </div>
+      {{ range.Site.Sections }}
+      <div class="group">
+        <div>
+          <a class="nav-link" href="{{.RelPermalink}}">
+            <div class="router-link-default">
+              <span>{{ .Name }}</span>
+            </div>
+          </a>
 
-      <div class="hidden group-hover:block absolute flex-col bg-green-800 text-lg
-      font-bold rounded-b-lg">
-        {{ range.Data.Pages }}
-        <div class="px-2 py-1 mx-2">
-
-          <a href="{{ .RelPermalink }}" class="text-gray-100">📜 {{ .Title }}</a>
         </div>
-        {{ end }}
+
+        <div class="hidden group-hover:block absolute flex-col bg-green-800 text-lg
+      font-bold rounded-b-lg">
+          {{ range.Data.Pages }}
+          <div class="px-2 py-1 mx-2">
+
+            <a href="{{ .RelPermalink }}" class="text-gray-100">📜 {{ .Title }}</a>
+          </div>
+          {{ end }}
+        </div>
+
       </div>
+      {{end}}
+    </div>
+
+    {{/* Button for mobile */}}
+    <div class="flex md:hidden">
+      <div>
+
+        <button onclick="toggleMenu()">
+
+          <svg class="h-14 w-14 m-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+            stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div id="mobileMenu" class="bg-green-800 text-lg
+      font-bold rounded-b-lg h-fit flex flex-col justify-center hidden">
+    {{ range.Site.Sections }}
+    <div>
+      <a href="{{.RelPermalink}}">
+        <div class="hover:bg-gray-100 hover:text-blue-500
+        px-3
+        py-2
+        mb-2
+        rounded-full
+        text-lg
+        font-bold flex justify-center">
+          <span>{{ .Name }}</span>
+        </div>
+      </a>
 
     </div>
     {{end}}
+    {{/* <p>Labore elit irure et excepteur nostrud. Tempor qui reprehenderit laboris culpa pariatur reprehenderit nulla.
+      Nisi
+      mollit ex ex elit commodo proident. Labore Lorem est voluptate ipsum incididunt esse dolor. Aute in id id
+      cupidatat ut eiusmod voluptate irure voluptate proident.</p> */}}
   </div>
   </div>
 </nav>
