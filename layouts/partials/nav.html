@@ -9,10 +9,10 @@
 <nav class="bg-green-800 sticky top-0 z-50">
 
   {{ $currentPage := . }}
-  <div class="flex justify-center md:justify-between h-full">
+  <div class="flex justify-center md:justify-around h-full">
     <div>
-      <a class="navbar-brand" href="/">
-        <div class="router-link-default">
+      <a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
+        <div class=" router-link-default">
           <img src="/img/logo.png" height="50" class="d-inline-block align-top" alt="{{ .Site.Title }}">
         </div>
       </a>
@@ -20,7 +20,6 @@
 
     {{/* Options for medium and bigger screens */}}
     <div class="hidden md:flex justify-around">
-
       {{ range.Site.Sections }}
       <div class="group">
         <div>
@@ -44,6 +43,27 @@
 
       </div>
       {{end}}
+
+      {{/* Select language */}}
+      <div class="group">
+
+        <div class="router-link-default">
+          <span>{{.Site.Language.LanguageName}}</span>
+        </div>
+
+        <div class="hidden group-hover:block absolute flex-col bg-green-800 text-lg
+        font-bold rounded-b-lg">
+          {{ range .AllTranslations }}
+          <div class="px-2 py-1 mx-2">
+
+            <a rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+              {{ .Language.LanguageName }}
+
+            </a>
+          </div>
+          {{ end }}
+        </div>
+      </div>
     </div>
 
     {{/* Button for mobile */}}
@@ -78,6 +98,22 @@
 
     </div>
     {{end}}
+    {{ range .AllTranslations }}
+    <div>
+      <a href="{{.Permalink}}">
+        <div class="hover:bg-gray-100 hover:text-blue-500
+        px-3
+        py-2
+        mb-2
+        rounded-full
+        text-lg
+        font-bold flex justify-center">
+          <span>{{ .Language.LanguageName }}</span>
+        </div>
+      </a>
+
+    </div>
+    {{ end }}
     {{/* <p>Labore elit irure et excepteur nostrud. Tempor qui reprehenderit laboris culpa pariatur reprehenderit nulla.
       Nisi
       mollit ex ex elit commodo proident. Labore Lorem est voluptate ipsum incididunt esse dolor. Aute in id id

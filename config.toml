@@ -1,7 +1,17 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Intentionally Bilingual"
+
+[languages.en]
+  title = "Intentionally Bilingual"
+  weight = 1
+  LanguageName = "🇬🇧 English"
+    
+[languages.nl]
+  title = "Bewust tweetalig"
+  weight = 2
+  LanguageName = "🇳🇱 Nederlands"
+
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
