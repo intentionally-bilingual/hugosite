@@ -1,14 +1,15 @@
 # Site settings
-baseURL = "https://intentionally-bilingual.github.io/hugosite/"
+baseURL = "/" 
+baseURLReal = "https://intentionally-bilingual.github.io/hugosite/"
 languageCode = "en-us"
 
 [languages.en]
-  title = "Intentionally Bilingual"
+  title = "Nimke.nl"
   weight = 1
   LanguageName = "🇬🇧 English"
     
 [languages.nl]
-  title = "Bewust tweetalig"
+  title = "Nimke.nl"
   weight = 2
   LanguageName = "🇳🇱 Nederlands"
 

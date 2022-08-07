@@ -1,5 +1,5 @@
 ---
-title: "Info"
+title: "Bilingualism"
 weight: 10
 ---
 
