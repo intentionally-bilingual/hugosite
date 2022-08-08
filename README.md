@@ -1,6 +1,6 @@
-# CytoData Society Website
+# Nimke.nl Website
 
-Welcome to the code of our website.
+Welcome to the code of your website.
 In here is the instruction to update things on the website.
 
 The website is made using [hugo](https://gohugo.io).

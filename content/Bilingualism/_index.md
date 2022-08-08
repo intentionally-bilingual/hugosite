@@ -3,6 +3,7 @@ title: "Bilingualism"
 weight: 10
 ---
 
-Nostrud nostrud velit pariatur cillum nostrud aliquip deserunt consectetur. Officia nisi elit ipsum proident deserunt. Aliqua elit mollit nisi ut qui in. Non ut tempor pariatur proident adipisicing consectetur ea sint aliqua exercitation nisi aliquip. Laboris non id reprehenderit et consectetur. Enim eu non exercitation elit do deserunt nostrud ut consequat.
+On this website you can find all sorts of information about bilingualism (or multilingualism). The topics range from beginner's guides to advanced specifics and back again. Feel free to roam about and learn more about bilingualism. 
 
-Cillum consequat nulla enim amet aute adipisicing do in do amet labore aliqua. Magna ut ad cupidatat adipisicing. Ullamco labore aliqua pariatur aliquip labore esse amet aliqua sint eu aliqua. Quis aute voluptate reprehenderit occaecat.
+Are you new here and don't know much about the topic yet? Try the "start here" first, to learn more about the basics of bilingualism and how to prepare for a bilingual baby (or older child).
+
