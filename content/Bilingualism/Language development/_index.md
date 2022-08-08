@@ -1,6 +1,6 @@
 ---
 title: "Language development"
-weight: 10
+weight: 20
 image: stage_5plus.png
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Stage of linguistic completion (5+ years)"
 shorttitle: "5+ years"
-summary: "Language development of children ago 5 and up"
 weight: 100
 image: stage_5plus.png
 ---
