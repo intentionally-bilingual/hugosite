@@ -9,9 +9,12 @@ With real-life stories, struggles and advice about how to raise children your ow
 Feel free to roam about, read the blogs and contact me for any comments, problems or questions you might have!
 {{< /column >}}
 
-{{< column_image "1/5" "/main_files/stage_5plus.png" "test image" >}}
+{{< column "1/5" >}}
+![Main page logo](/main_files/stage_5plus.png)
+{{</ columns >}}
 
 {{< column "2/5" >}}
+
 ## What is intentional bilingualism?
 
 When a child is intentionally addressed by parents in a language that is not native to them nor their community.

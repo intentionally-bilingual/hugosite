@@ -2,6 +2,7 @@
 title: "Over mij"
 weight: 100
 ---
+
 {{< columns >}}
 {{< column "2/3" >}}
 Leuk je hier te ontmoeten! Ik ben Nimke Nijhof, een Nederlandse logopediste en een Engels sprekende moeder van twee meertalige dochters.
@@ -15,6 +16,8 @@ Als ouders en ook gewoon als mensen proberen mijn man en ik met intentie te leve
 In deze blog schrijf ik over onze eigen persoonlijke ervaringen, maar schrijf ik ook informatieve stukken over meertaligheid en intentioneel leven voor iedereen die geïnteresseerd is. Veel van deze informatie kun je ook op mijn Instagram account vinden, kijk hiervoor bij de contact pagina.
 {{< /column >}}
 
-{{< column_image "1/3" "/main_files/stage_5plus.png" "test image" >}}
+{{< column "1/3" >}}
+![Main page logo](/main_files/stage_5plus.png)
+{{</ columns >}}
 
 {{</ columns >}}

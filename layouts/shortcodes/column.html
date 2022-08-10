@@ -1,5 +1,5 @@
 <div class="h-full w-full md:w-{{.Get 0}}">
     <p>
-        {{.Inner}}
+        {{ .Inner | markdownify }}
     </p>
 </div>
