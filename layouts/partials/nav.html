@@ -50,7 +50,7 @@
       <div class="group">
 
         <div class="router-link-default">
-          <span>{{.Site.Language.LanguageName}}</span>
+          <span>{{.Site.Language.Params.Flag}}</span>
         </div>
 
         <div class="hidden group-hover:block absolute flex-col bg-green-800 
@@ -59,7 +59,7 @@
           <div class="px-2 py-1 mx-2">
 
             <a rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-              {{ .Language.LanguageName }}
+              {{ .Language.Params.Flag }} {{ .Language.LanguageName }}
 
             </a>
           </div>
