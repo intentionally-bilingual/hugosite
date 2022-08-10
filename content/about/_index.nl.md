@@ -12,7 +12,7 @@ Als moeder voed ik mijn dochters meertalig op. Hoewel we beiden zijn geboren en 
 
 Als ouders en ook gewoon als mensen proberen mijn man en ik met intentie te leven. Naast meertaligheid betekent dit dat we proberen onze kinderen (en onszelf) op te voeden met zorg voor onze omgeving. Montessori-opvoeding, duurzaamheid en mentale gezondheid zijn belangrijke onderdelen van ons leven.
 
-In deze blog schrijf ik over onze eigen persoonlijke ervaringen, maar schrijf ik ook informatieve stukken over meertaligheid en meer voor iedereen die geïnteresseerd is. Veel van deze informatie kun je ook op mijn Instagram account vinden, kijk hiervoor bij de contact pagina.
+In deze blog schrijf ik over onze eigen persoonlijke ervaringen, maar schrijf ik ook informatieve stukken over meertaligheid en intentioneel leven voor iedereen die geïnteresseerd is. Veel van deze informatie kun je ook op mijn Instagram account vinden, kijk hiervoor bij de contact pagina.
 {{< /column >}}
 
 {{< column_image "1/3" "/main_files/stage_5plus.png" "test image" >}}

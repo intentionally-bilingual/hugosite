@@ -12,7 +12,7 @@ As a mom, I raise my daughters as growing bilinguals. While both my husband and 
 
 As parents and also just as people, my husband and I try to live with intention. Next to bilingualism, this means that we try to raise our children and ourselves with care for our environment. Montessori parenting, sustainability and mental health are a big part of our lives.  
 
-On this website I write about our own personal experiences, but also create informational pieces on bilingualism and more for all people that are interested. Most of my content is also available on my Instagram account, which you can check out via the contact page.
+On this website I write about our own personal experiences, but also create informational pieces on bilingualism and living with intention for all people that are interested. Most of my content is also available on my Instagram account, which you can check out via the contact page.
 {{< /column >}}
 
 {{< column_image "1/3" "/main_files/stage_5plus.png" "test image" >}}
