@@ -54,6 +54,7 @@ If you click it you will be brought to a page with the full text.
 - **Image** needs to be name of an image in the folder `static/main_files`.
 
 example:
+
 ```
 ---
 title: "CytoData 2017 - by Institute of Cancer Research"
@@ -109,14 +110,27 @@ The `partial` are part of html in the folder `\partials` that are repeated.
 `.Title` means it takes the title from the markdown and uses it here.
 `.Content` is the content of the markdown.
 
-``` html
+```html
 {{ partial "header.html" . }}
 
 <div class="container-fluid">
-<h1>{{ .Title }}</h1>
+  <h1>{{ .Title }}</h1>
 
-{{ .Content }}
+  {{ .Content }}
 </div>
 
 {{ partial "footer.html" . }}
 ```
+
+# TODO
+
+markdown headers in column does not work
+summary language developement has unreadable characters
+Show list with dot infront
+padding around headers, p, list items
+bilingual uai contact in middle
+GB english should be only flag
+dropdown still with names
+
+make enters be enters
+placeholder pictures
