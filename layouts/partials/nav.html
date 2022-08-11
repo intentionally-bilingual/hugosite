@@ -11,10 +11,10 @@
   {{ $currentPage := . }}
   <div class="flex justify-center md:justify-around h-full">
     <div class="group">
-      <a class="navbar-brand" style="rgb(22, 101 52)" href="{{ .Site.Home.RelPermalink }}">
+      <a class="navbar-brand no-underline text-gray-100" style="rgb(22, 101 52)" href="{{ .Site.Home.RelPermalink }}">
         <div class="router-link-default flex justify-start">
-          <img src="/images/Nimke_nl_logo.webp" class="w-7 h-7 group-hover:hidden" alt="Logo of {{ .Site.Title }}">
-          <img src="/images/Nimke_nl_logo_green.webp" class="w-7 h-7 hidden group-hover:block"
+          <img src="/images/Nimke_nl_logo.webp" class="w-7 h-7 group-hover:hidden p-0" alt="Logo of {{ .Site.Title }}">
+          <img src="/images/Nimke_nl_logo_green.webp" class="w-7 h-7 hidden group-hover:block p-0"
             alt="Logo of {{ .Site.Title }}">
           <span class="ml-2">{{ .Site.Title }}</span>
         </div>
@@ -26,7 +26,7 @@
       {{ range.Site.Sections }}
       <div class="group">
         <div>
-          <a class="nav-link" href="{{.RelPermalink}}">
+          <a class="nav-link no-underline text-gray-100" href="{{.RelPermalink}}">
             <div class="router-link-default">
               <span>{{ .Name }}</span>
             </div>
@@ -39,7 +39,7 @@
           {{ range.Data.Pages }}
           <div class="px-2 py-1 mx-2">
 
-            <a href="{{ .RelPermalink }}" class="text-gray-100">📜 {{ .Title }}</a>
+            <a href="{{ .RelPermalink }}" class="no-underline text-gray-100">{{ .Title }}</a>
           </div>
           {{ end }}
         </div>
@@ -52,7 +52,7 @@
       {{/* Select language */}}
       <div class="group">
         <div class="router-link-default">
-          <img class="w-7 h-7" src="data:image/png;base64,{{.Site.Language.Params.Flag }}">
+          <img class="w-7 h-7 p-0" src="data:image/png;base64,{{.Site.Language.Params.Flag }}">
         </div>
 
         <div class="hidden group-hover:block absolute flex-col bg-green-800 
@@ -60,9 +60,10 @@
           {{ range .AllTranslations }}
           <div class="px-2 py-1 mx-2">
 
-            <a rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+            <a class="no-underline text-gray-100" rel="alternate" hreflang="{{ .Language.Lang }}"
+              href="{{ .Permalink }}">
               <div class="flex justify-right">
-                <img class="w-7 h-7" src="data:image/png;base64,{{.Language.Params.Flag }}">
+                <img class="w-7 h-7 p-0" src="data:image/png;base64,{{.Language.Params.Flag }}">
                 <span class="pl-2">{{ .Language.LanguageName}}</span>
               </div>
 
@@ -74,7 +75,7 @@
 
       <div class="flex justify-end space-x-3">
 
-        <a class="flex flex-col justify-center" href="https://www.instagram.com/nimke.nl/">
+        <a class="flex flex-col justify-center no-underline text-gray-100" href="https://www.instagram.com/nimke.nl/">
           <svg role="img" class="fill-current text-gray-100 w-7 hover:text-yellow-500" viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg">
             <path
@@ -82,7 +83,7 @@
           </svg>
         </a>
 
-        <a class="flex flex-col justify-center" href="https://www.facebook.com/nimke.nl">
+        <a class="flex flex-col justify-center no-underline text-gray-100" href="https://www.facebook.com/nimke.nl">
           <svg role="img" class="fill-current text-gray-100 w-7 hover:text-blue-400" viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg">
             <path
@@ -110,7 +111,7 @@
       font-bold rounded-b-lg h-fit flex flex-col justify-center hidden">
     {{ range.Site.Sections }}
     <div>
-      <a href="{{.RelPermalink}}">
+      <a class="no-underline text-gray-100" href="{{.RelPermalink}}">
         <div class="hover:bg-gray-100 hover:text-blue-500
         px-3
         py-2
@@ -125,14 +126,15 @@
     {{end}}
     {{ range .AllTranslations }}
     <div>
-      <a href="{{.Permalink}}">
+      <a class="no-underline text-gray-100" href="{{.Permalink}}">
         <div class="hover:bg-gray-100 hover:text-blue-500
         px-3
         py-2
         mb-2
         rounded-full
         font-bold flex justify-center">
-          <img class="w-7 h-7" src="data:image/png;base64,{{.Language.Params.Flag }}"> <span>{{ .Language.LanguageName
+          <img class="w-7 h-7 p-0" src="data:image/png;base64,{{.Language.Params.Flag }}"> <span>{{
+            .Language.LanguageName
             }}</span>
         </div>
       </a>

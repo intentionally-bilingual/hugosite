@@ -74,12 +74,8 @@ Create pull request to main and complete it.
 
 # TODO
 
-- favicon.ico
-- Image location
-- placeholder pictures
-- Logo in banner
 - Improve layout bullet point
-- more blank space above a (+subsub) header, slightly less space under 
+- more blank space above a (+subsub) header, slightly less space under
 - in the list: next level should be stripe, not dot. plus further to the right
 - how do I do a part of text in smaller letters? (it's a sidenote)
 - how do I do italics?
