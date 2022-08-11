@@ -71,13 +71,6 @@ Create pull request to main and complete it.
 
 # TODO
 
-markdown headers in column does not work
-summary language developement has unreadable characters
-Show list with dot infront
-padding around headers, p, list items
-bilingual uai contact in middle
-GB english should be only flag
-dropdown still with names
-
-make enters be enters
-placeholder pictures
+- placeholder pictures
+- Logo in banner
+- Improve layout bullet point
