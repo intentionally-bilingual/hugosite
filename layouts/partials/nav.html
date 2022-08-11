@@ -53,17 +53,14 @@
         </div>
 
         <div class="hidden group-hover:block absolute flex-col bg-green-800 
-        font-bold rounded-b-lg  pb-2">
+        font-bold rounded-b-lg  pb-2 -translate-x-8">
           {{ range .AllTranslations }}
           <div class="px-2 py-1 mx-2">
 
             <a rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
               <div class="flex justify-right">
-
-                <img class="w-7 h-7" src="data:image/png;base64,{{.Language.Params.Flag }}"> <span>
-
-                  - {{ .Language.LanguageName}}
-                </span>
+                <img class="w-7 h-7" src="data:image/png;base64,{{.Language.Params.Flag }}">
+                <span class="pl-2">{{ .Language.LanguageName}}</span>
               </div>
 
             </a>
@@ -139,10 +136,6 @@
 
     </div>
     {{ end }}
-    {{/* <p>Labore elit irure et excepteur nostrud. Tempor qui reprehenderit laboris culpa pariatur reprehenderit nulla.
-      Nisi
-      mollit ex ex elit commodo proident. Labore Lorem est voluptate ipsum incididunt esse dolor. Aute in id id
-      cupidatat ut eiusmod voluptate irure voluptate proident.</p> */}}
   </div>
   </div>
 </nav>
