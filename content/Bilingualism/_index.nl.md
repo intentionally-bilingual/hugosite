@@ -3,6 +3,6 @@ title: "Meertaligheid"
 weight: 10
 ---
 
-NL: Nostrud nostrud velit pariatur cillum nostrud aliquip deserunt consectetur. Officia nisi elit ipsum proident deserunt. Aliqua elit mollit nisi ut qui in. Non ut tempor pariatur proident adipisicing consectetur ea sint aliqua exercitation nisi aliquip. Laboris non id reprehenderit et consectetur. Enim eu non exercitation elit do deserunt nostrud ut consequat.
+Op deze pagina vind je allerlei informatie over meertaligheid. De onderwerpen variëren van simpele handleidingen tot specifieke en gedetaileerde posts, en alles daartussen. Voel je vrij om rond te dwalen en meer te leren over meertaligheid.
 
-Cillum consequat nulla enim amet aute adipisicing do in do amet labore aliqua. Magna ut ad cupidatat adipisicing. Ullamco labore aliqua pariatur aliquip labore esse amet aliqua sint eu aliqua. Quis aute voluptate reprehenderit occaecat.
+Ben je nieuw hier en weet je nog niet veel over het onderwerp? Probeer eerst de "start hier" om meer te leren over de basis van meertaligheid en hoe je kunt voorbereiden op een meertalige baby (of ouder kind).

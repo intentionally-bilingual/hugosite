@@ -10,32 +10,39 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <style type="text/tailwindcss">
     @layer utilities {
-            h1 {
-                @apply text-3xl font-bold pb-3 text-green-800;
-              }
-              h2 {
-                @apply text-xl font-bold text-green-800;
-              }
-              p {
-                @apply pb-4 mx-1;
-              }
-              body {
-              @apply bg-gray-300 
-              }
-              nav {
-              @apply text-gray-300
-            }
+        h1 {
+            @apply text-3xl font-bold pb-3 text-green-800;
+          }
+          h2 {
+            @apply text-xl font-bold pb-1 text-green-800;
+          }
+          h3 {
+            @apply text-base font-bold pb-1 text-green-800;
+          }
+          p {
+            @apply pb-2 mx-1;
+          }
+          body {
+          @apply bg-gray-300 
+          }
+          nav {
+          @apply text-gray-300  bg-green-800 text-base lg:text-lg
+          }
+          ul {
+            @apply list-disc list-inside mx-2 pb-2 
+          }
         }
 
         @layer components {
             .router-link-default {
                 @apply 
                   hover:bg-gray-100 hover:text-blue-500
-                  px-3
+                  px-1
+                  lg:px-3
                   py-2
                   m-2
                   rounded-full
-                  text-lg
+                  
                   font-bold
               }
           .router-link-exact-active {

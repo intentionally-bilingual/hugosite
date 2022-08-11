@@ -1,22 +1,25 @@
 ---
-title: "Bewust twee talig"
+title: "Nimke.nl - Intentioneel Meertalig & Meer"
 ---
 
-Welkom
-
-# Ik ben een titel
-
-Hier kom ik om te klagen over all bugs die ik heb, maar geen zorgen ik programeer niet dus ik klaag vooral over muggen.
-
 {{< columns >}}
-{{< column 20 >}}
-Ik ben een column. Maar dat mag je niet door vertellen.
+{{< column "2/5" >}}
+Welkom bij deze semi-persoonlijke, semi-professionele blog over het opvoeden van kinderen in meerdere talen en het leven met intentie.
+Met echte verhalen, hoofdpijn momenten en advies over hoe je kinderen kunt opvoeden hoe jij dat wilt.
+Neem gerust een kijkje, lees de blogs en neem contact met me op voor eventuele opmerkingen, problemen of vragen!
 {{< /column >}}
 
-{{< column_image 40 "/main_files/stage_5plus.png" "test image" >}}
+{{< column "1/5" >}}
+![Main page logo](/main_files/stage_5plus.png)
+{{</ columns >}}
 
-{{< column 40 >}}
-22222 Dolore ullamco officia qui minim consectetur voluptate reprehenderit nisi. Culpa eu labore exercitation fugiat ullamco duis duis laborum dolor. Ipsum labore non in anim nisi eu consectetur consequat id proident amet aute. Sint ullamco culpa veniam nostrud incididunt sint. Incididunt voluptate ea dolore Lorem commodo dolore tempor amet do minim magna deserunt. Dolore anim aute veniam ex occaecat qui aliqua excepteur eiusmod aliqua dolore Lorem. Magna eiusmod nulla non commodo labore fugiat eu non duis reprehenderit
+{{< column "2/5" >}}
+
+## Wat is intentioneel meertalig?
+
+Wanneer een kind “intentioneel” wordt aangesproken in een taal die niet de moedertaal is van de ouders, noch de taal die in de omgeving gesproken wordt.
+
+Bijvoorbeeld Nederlandse ouders in Nederlands, kiezen voor het gebruiken van Engels als gezinstaal.
 {{< /column >}}
 
 {{</ columns >}}

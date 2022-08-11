@@ -1,18 +1,21 @@
 # Site settings
-baseURL = "https://intentionally-bilingual.github.io/hugosite/"
+baseURL = "/" 
 baseURLReal = "https://intentionally-bilingual.github.io/hugosite/"
 languageCode = "en-us"
 
 [languages.en]
   title = "Nimke.nl"
   weight = 1
-  LanguageName = "🇬🇧 English"
-    
+  LanguageName = "English"
+  [languages.en.params]
+    Flag = "🇬🇧"
+
 [languages.nl]
   title = "Nimke.nl"
   weight = 2
-  LanguageName = "🇳🇱 Nederlands"
-
+  LanguageName = "Nederlands"
+  [languages.nl.params]
+    Flag = "🇳🇱"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 

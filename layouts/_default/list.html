@@ -18,7 +18,7 @@
           <div class="flex-col w-full h-full text-center px-2 md:px-3">
             <h3 class="w-full  text-xl h-1/4">{{ .Title }}</h3>
             <p class="text-clip h-3/4 overflow-hidden">
-              {{ substr .Summary 0 250 }}
+              {{ substr .Summary 0 250 | safeHTML}}
             </p>
           </div>
         </div>
