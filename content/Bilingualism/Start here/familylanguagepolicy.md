@@ -10,7 +10,7 @@ First of all, you can start making your family language policy at any time or pe
 
 Second of all, it is important to note that whenever I talk about languages, this also includes dialects. No matter the “status” of a language or dialect, they all are of equal value and play an important part in your and your child’s life.
 
-So how can you start planning for your own bilingual family? I will tell you the four basic steps needed to make a family language policy that suits your particular situation.
+So how can you start planning for your own bilingual family? I will tell you the four basic steps needed to make a family language policy that suits your particular situation. If you prefer more indepth and personalised tips, contact me about your situation and wishes. 
 
 
 ## Step 1: Languages and Goals
@@ -29,3 +29,5 @@ Review your policy as you go. This is a very important step, especially if your 
 Try to look at your family language policy every few years or whenever your family situation changes. Are the goals you had still up to date or have they changed? Are they still realistic in the current situation? What are the resources that I have to my disposal? Is the chosen strategy still the best one for us?
 
 After you have followed these 4 steps, you have completed your very own family language policy! For some families, this will be done in no-time while others might need to think and discuss every step in detail. Take all the time you need and remember: knowing what you want and why you want it, brings you one step closer to achieving it.
+
+Would you like help creating a Family Language Policy? You can contact me for the possibilities of a single consultation including your own FLP, or a longer period of coaching.
