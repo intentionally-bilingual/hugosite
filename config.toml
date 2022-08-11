@@ -1,6 +1,5 @@
 # Site settings
-baseURL = "https://intentionally-bilingual.github.io/hugosite/" 
-baseURLReal = "https://intentionally-bilingual.github.io/hugosite/"
+baseURL = "nimke.nl" 
 languageCode = "en-us"
 
 [languages.en]
