@@ -4,26 +4,29 @@ weight: 90
 ---
 Klik op de links om meer te ontdekken
 
-Peach parents
-peach professionals
-peach materials NL
+## PEaCH
+PEaCH ondersteunt Europese gezinnen die meertalige kinderen opvoeden in de vorm van een handboek voor ouders en professionals, informatieve video's en een online verzameling van kant-en-klaar materiaal.
 
-info about all languages in Peach
+[Materialen voor ouders](https://bilingualfamily.eu/resources-for-parents)  
+De handleiding is in het Engels, of in het Italiaans, Frans, Duits, Roemeens en Spaans. De andere materialen zijn in alle 24 talen van de EU beschikbaar. 
 
-Qbex questionaire
+[Handboek voor professionals (Engels)](https://bilingualfamily.eu/resources-for-parents)   
+Dit handboek is naast het Engels ook verkrijgbaar in het Italiaans, Frans, Duits en Spaans. 
 
-podcasts
-kletsheads NL
-over taal gesproken
+## Podcasts
+Deze podcasts zijn beschikbaar op ten minste Google Podcasts en Spotify.
 
-English:
-future is bilingual
-multilingual stories
-bilingual parenting
-much language such talk
+[Kletsheads](https://kletsheadspodcast.nl/)  
+[Over taal gesproken](https://overtaalgesproken.buzzsprout.com/)  
+[The Future is Bilingual (Engels)](https://anchor.fm/the-future-is-bilingual)  
+[Bilingual Parenting Podcast (Engels)](https://bilingualparentingpodcast.libsyn.com)  
+[Much Language Such Talk (Engels)](https://mlstpodcast.com/)
 
-books: 
-niknak
-lappa books
-selby gunter
-jumping cow press
+## Books
+Op deze pagina's vind je meertalige boeken, of een selectie van boeken in verschillende talen. 
+
+[NIK-NAK](https://nik-nak.eu/)  
+[BukiBoek](https://bukiboek.nl)  
+[Lappa Books](https://www.lappabooks.nl/)  
+[Mona Cottage](https://www.monacottage.com/)  
+[Jumping Cow Press](https://www.jumpingcowpress.com/)
