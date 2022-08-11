@@ -71,6 +71,8 @@ Create pull request to main and complete it.
 
 # TODO
 
+- favicon.ico
+- Image location
 - placeholder pictures
 - Logo in banner
 - Improve layout bullet point
