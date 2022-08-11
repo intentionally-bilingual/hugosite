@@ -10,7 +10,7 @@ Allereerst, het is mogelijk om op elk moment en elke fase van het leven van je k
 
 Ten tweede is het belangrijk te vermelden dat wanneer ik over talen spreek, ik ook dialecten bedoel. Ongeacht de "status" van een taal of dialect, ze zijn allemaal van gelijke waarde en spelen een belangrijke rol in het leven van jullie en jullie kind.
 
-Dus hoe kun je beginnen met het plannen voor je eigen meertalige gezin? Ik zal hier de vier basisstappen vertellen die nodig zijn om een ​​Family Language Policy te maken dat bij jullie specifieke situatie past.
+Dus hoe kun je beginnen met het plannen voor je eigen meertalige gezin? Ik zal hier de vier basisstappen vertellen die nodig zijn om een ​​Family Language Policy te maken dat bij jullie specifieke situatie past. Wil je meer diepgaande of persoonlijke tips? Neem dan contact met me op voor jullie specifieke situatie en wensen. 
 
 
 ## Stap 1: Talen en doelen
@@ -32,3 +32,5 @@ Blijf het plan van aanpak evalueren naar gelang de tijd verstrijkt. Dit is een z
 Probeer om de paar jaar of wanneer uw gezinssituatie verandert, de Family Language Policy te evalueren. Zijn de doelen die je hebt nog actueel of zijn ze veranderd? Zijn ze in de huidige situatie nog wel realistisch? Welke middelen heb ik tot mijn beschikking en hoe is het taalaanbod? Is de gekozen strategie nog steeds de beste voor ons?
 
 Nadat je deze 4 stappen heeft gevolgd, heeft u uw eigen meertalige plan van aanpak -of Family Language Policy- gemaakt! Voor sommige gezinnen is dit binnen de kortste keren gedaan, terwijl anderen misschien elke stap in detail moeten overdenken en bespreken. Neem alle tijd die je nodig hebt en onthoud: als je weet wat je wilt en waarom je het wilt, kom je een stap dichter bij het bereiken ervan.
+
+Wil je graag hulp bij het maken van dit plan? Neem dan contact met me op voor de mogelijkheden van een eenmalig consult met plan, of een uitgebreidere coaching. 
