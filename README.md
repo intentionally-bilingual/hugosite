@@ -37,7 +37,10 @@ After a double enter a new paragraph starts
 
 ## This is a sub header
 
+links:
 [I am a link to google](google.com)
+
+images:
 ![I am the alt text of the image for blind people or if the image does not load](/main_files/stage_5plus.png)
 
 ### I am a sub sub header
