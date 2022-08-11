@@ -17,7 +17,7 @@ On this website I write about our own personal experiences, but also create info
 {{< /column >}}
 
 {{< column "1/3" >}}
-![Black and white picture of Nimke Nijhof](/main_files/photo black and white.jpg)
+!["Black and white picture of Nimke Nijhof"](/main_files/nimke_black_white.jpg)
 {{</ columns >}}
 
 {{</ columns >}}
