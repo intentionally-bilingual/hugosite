@@ -5,7 +5,7 @@ image: stage_5plus.png
 ---
 A Family Language Policy is a detailed plan describing the languages and language strategies used in a family. This plan often includes the ideology towards (bilingual) parenting and the goals that a family has set considering their bilingualism.
 
-Before I tell you more, there are two important things to discuss.
+Before I tell you more, there are two important things to discuss.  
 First of all, you can start making your family language policy at any time or period of your child’s life. Ideally you start planning before he/she is born, or soon after. This way you can start raising your bilingual children confidently and you know what to expect (a bit). But other times are great for planning as well, as it’s never too late! No matter what your current situation is, it can always help to take a moment and think about what you want, and how to achieve it.
 
 Second of all, it is important to note that whenever I talk about languages, this also includes dialects. No matter the “status” of a language or dialect, they all are of equal value and play an important part in your and your child’s life.
@@ -20,7 +20,8 @@ It is important to discuss your preferred languages and their goals with your pa
 ## Step 2: The Language Resources
 Take inventory of all your ‘resources’. Which languages do you speak as a parent, and what languages does your partner speak? Of each language, note the level and/or fluency. Are there other important people involved in the upbringing for your child that can help raise your child bilingually? This can be grandparents, nannies, the neighbors, friends, daycare, school etc. What are the languages of those people, and what level or fluency do they have?
 ## Step 3: Choosing a Strategy
-Try to match your goals to your resources. Who can provide the needed input for each language, and is that enough to reach your goal? If you also want your child to read and write in the languages, is that learned in school? If not, are you capable of teaching it yourself or do you need additional resources?
+Try to match your goals to your resources. Who can provide the needed input for each language, and is that enough to reach your goal? If you also want your child to read and write in the languages, is that learned in school? If not, are you capable of teaching it yourself or do you need additional resources?  
+
 In this step, you choose the language strategy that suits your situation. You can use the one-parent-one-language approach, speak the minority language at home, find specific times and locations to use each language etc. You can also create a new strategy to perfectly meet your needs. You can find the information about the strategies here.
 ## Step 4: Review and Repeat
 Review your policy as you go. This is a very important step, especially if your situation changes quite often. Maybe you move to a different country or your child starts going to school and suddenly find yourself with a different language environment. Maybe the strategy you use doesn’t help to achieve your goals anymore. Other possibilities are that you improved your own language skills and want to change the language you are using with the child. And maybe everything is still great, and you don’t need to change anything.

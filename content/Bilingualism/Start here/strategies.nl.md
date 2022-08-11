@@ -3,7 +3,7 @@ title: "De strategieën"
 weight: 30
 image: stage_5plus.png
 ---
-Kort gezegd zijn er 5 hoofdstrategieën of manieren om een kind tweetalig (of zelfs drietalig) op te voeden. Het kiezen van de strategie die past bij jouw specifieke gezin, wensen en mogelijkheden is erg belangrijk voor de (toekomstige) ouders. Ik herhaal het nog even, voor de ouders. Veel ouders hebben een structuur nodig om op de lange termijn een van de talen niet te verwaarlozen.
+Kort gezegd zijn er 5 hoofdstrategieën of manieren om een kind tweetalig (of zelfs drietalig) op te voeden. Het kiezen van de strategie die past bij jouw specifieke gezin, wensen en mogelijkheden is erg belangrijk voor de (toekomstige) ouders. Ik herhaal het nog even, voor de ouders. Veel ouders hebben een structuur nodig om op de lange termijn een van de talen niet te verwaarlozen.  
 Voor de kinderen maakt het niet uit wat je doet. Je kunt je aan één van de manieren houden, er een paar mixen of een geheel nieuwe strategie bedenken, kinderen zullen door geen van deze opties echt negatief of positief worden beïnvloed. Voor de kinderen is de kwaliteit en het aanbod van de talen belangrijker dan wat dan ook.
 
 Oké, weer terug naar die strategieën. Ze hebben allemaal afkortingen om het nog wat ingewikkelder te laten lijken. NB: ik gebruik hier de Engelse termen, die zijn het meest gebruikelijk.

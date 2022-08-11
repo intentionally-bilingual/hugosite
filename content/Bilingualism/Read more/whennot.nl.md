@@ -23,7 +23,7 @@ Als u uw kind in een bepaalde taal wilt opvoeden, moet u met hen kunnen communic
 ## De risico's:
 Kinderen hebben een rijk taal aanbod nodig. Dit betekent zowel veel taal, als taal van een goede kwaliteit. De risico's van een slecht taalaanbod zijn imitatie van slechte grammatica / woorden / etc, of zelfs problemen bij de taalontwikkeling. In mijn werk heb ik kinderen gezien die niet voldoende taalaanbod in een van hun talen kregen, en het is erg moeilijk om deze kinderen weer op niveau te krijgen.
 
-## Uw opties:
+## De opties:
 
 - Uw kind alleen opvoeden in de taal die u vloeiend spreekt (= eentalig).
 - Uw kind voornamelijk eentalig opvoeden, maar kleine dingen in de andere taal toevoegen. Dit kunnen liedjes zijn, het gebruik van losse woorden of bijv. tellen. Hiermee leert uw kind niet communiceren in de tweede taal, maar voor sommige ouders kan dit wel voldoende zijn en het geeft het kind de mogelijkheid een relatie met de andere cultuur aan te gaan.
@@ -38,7 +38,7 @@ Taalproblemen worden vaak gezien bij deze kinderen, in alle talen die bij het ki
 ### De risico's:
 Als je een kind hebt met ASS, dat bijzonder gevoelig is voor veranderingen en routines, kan een verandering in de talen die aangeboden worden, extreme reacties en stress veroorzaken. Voor kinderen met autisme kunnen deze leiden tot diverse andere problemen die de kwaliteit van leven verminderen of hen belemmeren in de relatie met hun omgeving. Ze kunnen zelfs zo gestrest raken dat ze helemaal stoppen met communiceren en/of achteruitgaan in hun spraak. Zeker bij het introduceren van een tweede taal op latere leeftijd, is het advies om hier luchtig over te denken.
 
-### Opties:
+### De opties:
 
 - Blijf bij de taalsituatie die je nu hebt. Als je tweetalig bent begonnen, verander dan niet naar eentalig. Als je eentalig bent begonnen, verander dit dan niet naar tweetalig.
 - Als het om wat voor reden dan ook echt gewenst of nodig is om de taalsituatie te veranderen, doe dit dan heel geleidelijk. Maak een plan dat zorgt voor een geleidelijke toename (of afname) van de taal. Je zou kunnen beginnen met liedjes, het lezen van een boek of een specifiek (kort) moment op de dag waarop je de nieuwe taal introduceert of afbouwt. Kijk goed naar de reacties van het kind en pas het plan indien nodig aan.
@@ -48,10 +48,10 @@ Als je een kind hebt met ASS, dat bijzonder gevoelig is voor veranderingen en ro
 Als logopedist gespecialiseerd in kinderen met ontwikkelingsachterstanden en -stoornissen, is dit bijna een thuiswedstrijd. Meer dan 60% van de kinderen in mijn groepen heeft een multiculturele achtergrond en is tweetalig (of drietalig).
 Tevens hebben ze allemaal problemen met hun algehele cognitieve ontwikkeling en zeker ook hun communicatieve ontwikkeling. Er zijn weinig tot geen onderzoeken gedaan naar tweetaligheid en ontwikkelingsstoornissen, met uitzondering van het syndroom van Down (in combinatie met simultane tweetaligheid). Deze onderzoeken naar het syndroom van Down laten geen negatief effect zien op hun ontwikkeling. Dit is natuurlijk goed nieuws, maar er is nog zoveel onbekend over alle andere ziektebeelden, stoornissen en over sequentiële tweetaligheid. Advies hierover moet daarom nog goed worden onderbouwd.
 
-### Risico's:
+### De risico's:
 Dus wat zijn de potentiële risico's van meertaligheid voor kinderen met andere ontwikkelingsstoornissen dan het syndroom van Down? Wat ik momenteel aan ouders meegeef, is dat het deze kinderen veel tijd en moeite kost om een ​​taal te leren. Sommigen zullen een taal kunnen begrijpen en spreken, anderen misschien niet. Hoewel een tweede taal hun capaciteiten niet negatief zal beïnvloeden, verdeelt u uw tijd tussen beide. Om deze reden kan het soms wat langer duren voordat het kind de taal tot een bepaald niveau leert spreken. Dit is vooral het geval bij een kind dat meer dan twee talen hoort, zoals drie of vier. Niet kunnen communiceren brengt vaak frustratie en andere problemen met zich mee, die verdere ontwikkeling kunnen belemmeren.
 
-### Opties:
+### De opties:
 
 - Als beide (of alle) talen nodig zijn in het leven van het kind, ga ervoor. Zoals vermeld in de disclaimers, is het niet kunnen communiceren met bepaalde mensen beslist erger. Aangezien het meeste onderzoek wordt gedaan naar simultane meertaligheid, zou mijn advies zijn “hoe vroeger hoe beter”.
 - Denk kritisch na over al uw talen. In onze eigen situatie zijn wij bijvoorbeeld twee Nederlandse ouders die ons kind in Nederland opvoeden. Engels hieraan toevoegen kan leuk zijn, maar is absoluut niet nodig voor haar om op wat voor manier dan ook te communiceren met de mensen en de wereld om haar heen.
@@ -64,7 +64,7 @@ Ongeacht uw eigen (taal) achtergrond, U als ouder zult moeten beslissen hoe UW k
 
 ### De risico's:
 Zoals vermeld in de bovenstaande disclaimers, is het erg belangrijk om achter de gemaakte (taal)keuzes te staan. Of dit nu betekent dat uw kind eentalig of tweetalig wordt opgevoed, het maakt niet uit. Ik heb situaties gezien waarin ouders een plan volgden waar ze niet echt in geloofden. In het begin is het prima, maar na verloop van tijd ontstaan er toch problemen. Dit kan in de vorm zijn van spijt en negatieve gedachten, naar zichzelf of anderen. Het kan zelfs resulteren in een vertraagde of verstoorde taalontwikkeling bij het kind als er hierdoor sprake is van een slecht taalaanbod.
-### Opties:
+### De opties:
 
 - Doe wat u denkt dat goed is voor uw huidige situatie. Het is prima om van gedachten te veranderen, maar doe dit voor uzelf en uw eigen situatie. Niet voor anderen.
 
