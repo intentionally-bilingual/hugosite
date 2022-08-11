@@ -5,7 +5,7 @@ image: stage_5plus.png
 ---
 Een meertalig plan van aanpak is een gedetailleerd plan dat de talen en taalstrategieën beschrijft die in een gezin worden gebruikt. Dit plan omvat vaak ook de ideologie ten aanzien van (meertalig) ouderschap en de doelen die een gezin heeft gesteld met betrekking tot hun meertaligheid.
 
-Voordat ik hier meer over vertel, zijn er nog twee belangrijke dingen.
+Voordat ik hier meer over vertel, zijn er nog twee belangrijke dingen.  
 Allereerst, het is mogelijk om op elk moment en elke fase van het leven van je kind een Family Language Policy te maken. Idealiter begin je met plannen voordat hij/zij wordt geboren, of kort daarna. Zo kun je vol vertrouwen beginnen met het opvoeden van je meertalige kinderen en weet je wat je (een beetje) kunt verwachten. Maar andere momenten zijn ook prima om te starten met plannen, want het is nooit te laat! Wat je huidige situatie ook is, het kan altijd helpen om even een pauze in te lassen om na te denken over wat je wilt en hoe je dit kunt bereiken.
 
 Ten tweede is het belangrijk te vermelden dat wanneer ik over talen spreek, ik ook dialecten bedoel. Ongeacht de "status" van een taal of dialect, ze zijn allemaal van gelijke waarde en spelen een belangrijke rol in het leven van jullie en jullie kind.
