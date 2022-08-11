@@ -10,10 +10,13 @@
 
   {{ $currentPage := . }}
   <div class="flex justify-center md:justify-around h-full">
-    <div>
-      <a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
-        <div class=" router-link-default">
-          <img src="/img/logo.png" height="50" class="d-inline-block align-top" alt="{{ .Site.Title }}">
+    <div class="group">
+      <a class="navbar-brand" style="rgb(22, 101 52)" href="{{ .Site.Home.RelPermalink }}">
+        <div class="router-link-default flex justify-start">
+          <img src="/images/Nimke_nl_logo.webp" class="w-7 h-7 group-hover:hidden" alt="Logo of {{ .Site.Title }}">
+          <img src="/images/Nimke_nl_logo_green.webp" class="w-7 h-7 hidden group-hover:block"
+            alt="Logo of {{ .Site.Title }}">
+          <span class="ml-2">{{ .Site.Title }}</span>
         </div>
       </a>
     </div>
