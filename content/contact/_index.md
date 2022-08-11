@@ -11,4 +11,4 @@ For a more indepth counseling, please contact me and we'll discuss the possibili
 ## Contact information
 
 Email: intentionally.bilingual@gmail.com  
-Instagram: @nimke.nl
+Instagram: [@nimke.nl](https://www.instagram.com/nimke.nl/)

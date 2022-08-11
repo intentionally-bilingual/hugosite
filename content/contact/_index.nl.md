@@ -11,4 +11,4 @@ Voor een meer diepgaande begeleiding kun je contact met mij opnemen, dan besprek
 ## Contact informatie
 
 Email: intentionally.bilingual@gmail.com  
-Instagram: @nimke.nl
+Instagram: [@nimke.nl](https://www.instagram.com/nimke.nl/)
