@@ -32,7 +32,7 @@
         </div>
 
         <div class="hidden group-hover:block absolute flex-col bg-green-800 
-      font-bold rounded-b-lg">
+      font-bold rounded-b-lg pb-2">
           {{ range.Data.Pages }}
           <div class="px-2 py-1 mx-2">
 
@@ -48,18 +48,23 @@
     <div class="hidden md:flex justify-around">
       {{/* Select language */}}
       <div class="group">
-
         <div class="router-link-default">
-          <span>{{.Site.Language.Params.Flag}}</span>
+          <img class="w-7 h-7" src="data:image/png;base64,{{.Site.Language.Params.Flag }}">
         </div>
 
         <div class="hidden group-hover:block absolute flex-col bg-green-800 
-        font-bold rounded-b-lg">
+        font-bold rounded-b-lg  pb-2">
           {{ range .AllTranslations }}
           <div class="px-2 py-1 mx-2">
 
             <a rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
-              {{ .Language.Params.Flag }} {{ .Language.LanguageName }}
+              <div class="flex justify-right">
+
+                <img class="w-7 h-7" src="data:image/png;base64,{{.Language.Params.Flag }}"> <span>
+
+                  - {{ .Language.LanguageName}}
+                </span>
+              </div>
 
             </a>
           </div>
@@ -127,7 +132,8 @@
         mb-2
         rounded-full
         font-bold flex justify-center">
-          <span>{{ .Language.LanguageName }}</span>
+          <img class="w-7 h-7" src="data:image/png;base64,{{.Language.Params.Flag }}"> <span>{{ .Language.LanguageName
+            }}</span>
         </div>
       </a>
 
