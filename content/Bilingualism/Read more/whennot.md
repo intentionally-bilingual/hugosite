@@ -38,7 +38,7 @@ Language problems are often seen with children on the spectrum, and will effect 
 ### The risks:
 When you have a child on the spectrum, that is particularly sensitive to changes and routines, a shift in the languages used can trigger extreme reactions and stress. For children with autism these can lead to various other problems that lower the quality of life or hinder them in the relations with their environment. They could even get so stressed out that they stop communicating altogether and/or regress in their speech. Especially with introducing a second language later in life, the advise is to thread lightly.
 
-### Options:
+### Your options:
 
 - Stick with whatever language situation you have now. If you started bilingual, don’t change to monolingual. If you started out monolingual, don’t change this to bilingual.
 - If for whatever reason it is really wanted or needed to change the language situation, do this very gradually. Make a plan that provides for a gradual increase (or decrease) of the language. You could start with playing songs, reading a book or a specific (short) time a day in which you introduce the new language. Look closely to the child’s reactions and adjust the plan when needed.
@@ -48,10 +48,10 @@ When you have a child on the spectrum, that is particularly sensitive to changes
 As a speech therapist (SLP) specialised in children with developmental delays and disorders, this one is close to home. More than 60% of the children in my groups have multicultural backgrounds and are bilingual (or trilingual) and all of them have problems in their overal cognitive development and in their communicative development.
 There are little to no studies done on bilingualism and developmental disorders, except for Down’s syndrome with simultaneous bilingualism. These studies on Down’s syndrome show no negative effect on their development. This is good news, but there is still so much unknown about all the other syndromes, disabilities and about sequential bilingualism. Advice on this is yet to be evidence based because of this.
 
-### Risks:
+### The risks:
 So what are the potential risks of bilingualism for children with developmental disorders, other than Down’s syndrome? What I currently tell parents, is that it takes these children a lot of time and effort to learn any language. Some will be able to understand and speak a language, while others might not. Although a second language will not impact their abilities negatively, you are dividing your time between the two. For this reason, it can take longer for the child to learn to speak the language to a certain level. This is especially the case with a child that hears more than two languages, like 3 or four. Not being able to communicate often brings frustration and other problems along, which can hinder further development.
 
-### Options:
+### Your options:
 
 - If both (or all) languages are needed in the child’s life, go for it. As stated in the disclaimers, not being able to communicate with certain people is definitely worse. As most research is done on simultaneous bilingualism, my advice would be to start sooner, rather than later.
 - Think about all your languages critically. In our own situation for example, we are two Dutch parents raising our child in the Netherlands. Adding English to the mix can be nice, but is definitely not necessary for her to interact in any way with the people and world around her.
@@ -64,7 +64,7 @@ No matter your own (language) background, YOU as a parent will have to decide on
 
 ### The risks:
 As stated in the disclaimers above, it is very important to agree with the language choices that are made. Whether this means raising your child monolingual or bilingual, this doesn’t matter. I have seen situations in which parents followed a plan they didn’t really believe in. At first it’s fine, but as time goes by problems will arise. This can be in the form of regret and resentment, towards themselves or others. It can even result in a delayed or poor language development in the child due to suboptimal language input.
-### Options:
+### Your options:
 - Do what you believe is right for your current situation. It’s okay to change your mind, but don’t do it on account of others.
 
 

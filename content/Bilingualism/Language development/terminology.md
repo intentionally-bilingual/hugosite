@@ -21,23 +21,23 @@ Language development can be described in many ways and with many differently def
 ## Terms used in language development
 In earlier posts I have already talked about different ways a child can grow up with 2 or more languages. When talking about bilingual development, several different terms and abbreviations are used. There are three main terms that will be used in my blogs that I will explain here, and each includes a different way of referring to the languages that are being acquired.
 
-Monolingual language development
+### Monolingual language development
 - Monolingual means only one language.
 - The abbreviation used is MFLA, which means Monolingual - First Language Acquisition
 - The language being acquired is referred to as Language 1.
 
-Bilingual development for simultaneous bilinguals
+### Bilingual development for simultaneous bilinguals
 - The child acquires all languages since birth.
 - The abbreviation used is BFLA, which means Bilingual First Language Acquisition
 - The abbreviation TFLA is normally used for Trilingual First Language Acquisition. Whenever I refer to bilingual people, I also refer to multilingual people so I generally don’t use this term.
 - Languages are referred to as Language A, Language B, Language C etc. (LA, LB, LC)
 
-Bilingual development for sequential bilinguals
+### Bilingual development for sequential bilinguals
 - The childs acquires or learns a language after the first one is already acquired.
 - The abbreviation used is ESLA or SLA, which means Early Second Language Acquistion, or only Second Language Acquisition when the child is even older.
 - Languages are referred to as Language 1, Language 2, Language 3 etc. (L1, L2, L3)
 
-Bilingual development for combined simultaneous and sequential
+### Bilingual development for combined simultaneous and sequential
 - The child acquires two or more languages from birth, and also learns another language later in life
 - The abbreviation used are also BFLA or ESLA, depending on the specific situation and language described at that moment.
 - Languages are referred to as follows: Language 1A, Language 1B, Language 2 (L1A, L1B, L2A, L2B, L3).

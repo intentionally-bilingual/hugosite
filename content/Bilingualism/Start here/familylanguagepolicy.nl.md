@@ -5,12 +5,12 @@ image: stage_5plus.png
 ---
 Een meertalig plan van aanpak is een gedetailleerd plan dat de talen en taalstrategieën beschrijft die in een gezin worden gebruikt. Dit plan omvat vaak ook de ideologie ten aanzien van (meertalig) ouderschap en de doelen die een gezin heeft gesteld met betrekking tot hun meertaligheid.
 
-Voordat ik hier meer over vertel, zijn er nog twee belangrijke dingen.
+Voordat ik hier meer over vertel, zijn er nog twee belangrijke dingen.  
 Allereerst, het is mogelijk om op elk moment en elke fase van het leven van je kind een Family Language Policy te maken. Idealiter begin je met plannen voordat hij/zij wordt geboren, of kort daarna. Zo kun je vol vertrouwen beginnen met het opvoeden van je meertalige kinderen en weet je wat je (een beetje) kunt verwachten. Maar andere momenten zijn ook prima om te starten met plannen, want het is nooit te laat! Wat je huidige situatie ook is, het kan altijd helpen om even een pauze in te lassen om na te denken over wat je wilt en hoe je dit kunt bereiken.
 
 Ten tweede is het belangrijk te vermelden dat wanneer ik over talen spreek, ik ook dialecten bedoel. Ongeacht de "status" van een taal of dialect, ze zijn allemaal van gelijke waarde en spelen een belangrijke rol in het leven van jullie en jullie kind.
 
-Dus hoe kun je beginnen met het plannen voor je eigen meertalige gezin? Ik zal hier de vier basisstappen vertellen die nodig zijn om een ​​Family Language Policy te maken dat bij jullie specifieke situatie past.
+Dus hoe kun je beginnen met het plannen voor je eigen meertalige gezin? Ik zal hier de vier basisstappen vertellen die nodig zijn om een ​​Family Language Policy te maken dat bij jullie specifieke situatie past. Wil je meer diepgaande of persoonlijke tips? Neem dan contact met me op voor jullie specifieke situatie en wensen. 
 
 
 ## Stap 1: Talen en doelen
@@ -32,3 +32,5 @@ Blijf het plan van aanpak evalueren naar gelang de tijd verstrijkt. Dit is een z
 Probeer om de paar jaar of wanneer uw gezinssituatie verandert, de Family Language Policy te evalueren. Zijn de doelen die je hebt nog actueel of zijn ze veranderd? Zijn ze in de huidige situatie nog wel realistisch? Welke middelen heb ik tot mijn beschikking en hoe is het taalaanbod? Is de gekozen strategie nog steeds de beste voor ons?
 
 Nadat je deze 4 stappen heeft gevolgd, heeft u uw eigen meertalige plan van aanpak -of Family Language Policy- gemaakt! Voor sommige gezinnen is dit binnen de kortste keren gedaan, terwijl anderen misschien elke stap in detail moeten overdenken en bespreken. Neem alle tijd die je nodig hebt en onthoud: als je weet wat je wilt en waarom je het wilt, kom je een stap dichter bij het bereiken ervan.
+
+Wil je graag hulp bij het maken van dit plan? Neem dan contact met me op voor de mogelijkheden van een eenmalig consult met plan, of een uitgebreidere coaching. 

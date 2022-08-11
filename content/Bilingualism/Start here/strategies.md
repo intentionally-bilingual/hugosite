@@ -30,6 +30,6 @@ This strategy is close to the T&L/OSOL, but shows more flexibility. Here too, bo
 The last strategy is not a real strategy in my opinion, but is certainly worth mentioning. With MLP, both parents use mixed languages in their communications. This can either mean mixing and changing languages in times, situations, places, between sentences or even changing mid-sentence to the other language. Although this might seem confusing for the child, it is actually not. Children are able to pick up both languages in all those situations, it is the parents that often get confused.
 
 ## Conclusion
-To emphasize this again, no strategy is better than the other. It all boils down to what suits your family situation and wishes. Don’t be afraid to mix things up and find your own tailored strategy. Consider what your language goals are for your child and make sure the quality and input are enough to reach that goal.
+To emphasise this again, no strategy is better than the other. It all boils down to what suits your family situation and wishes. Don’t be afraid to mix things up and find your own tailored strategy. Consider what your language goals are for your child and make sure the quality and input are enough to reach that goal.
 
 Personally, we use a ML@H strategy. We speak English at home with our daughter, while at all other places she hears Dutch. To add in a bit of T&L, we do speak Dutch whenever we have guests over. This purely to keep the friends we have and not annoy them too much ;)

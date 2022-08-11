@@ -17,7 +17,7 @@ In deze blog schrijf ik over onze eigen persoonlijke ervaringen, maar schrijf ik
 {{< /column >}}
 
 {{< column "1/3" >}}
-![Main page logo](/main_files/stage_5plus.png)
+!["Zwart wit foto van Nimke Nijhof"](/main_files/nimke_black_white.jpg)
 {{</ columns >}}
 
 {{</ columns >}}
