@@ -18,119 +18,61 @@ To update text go the `/content` and locate the text you want to alter.
 Every page has it own folder.
 
 `_index.md`: Main text of this page.
-The one `/content/_index.md` is for the main page, `/content/society/_index.md` is for the society page ect.
+The one `/content/_index.md` is for the main page (nimke.nl), `/content/contact/_index.md` is for contact page (nimke.nl/contact), and `/content/contact/_index.nl.md` is for the Dutch contact page (nimke.nl/nl/contact)
+
+### Example
 
 ```
 ---
-title: "Title of the page"
+title: "This is the main tittle and what showns up if you list all items"
+weight: 15 // lower weight means higher in the list (or farther to the left)
+image: IMAGENAME.jpg // The image name in static\main_files\IMAGENAME.jpg use for lists
 ---
 
-Here the text of page goes.
-# You can use markdown to style your text
+This is the first paragraph.
+So is this text.
+This is also first paragraph but a new line because the line above ended with 2 spaces
 
-An image can be added like this.
-These image are in static/main_files/
-![CytoData banner](/./main_files/cytodata-banner.png)
-```
+After a double enter a new paragraph starts
 
-## Updating/adding list element
+## This is a sub header
 
-A folder can have more markdowns.
-This means a list is created.
-`/content/symposiums/_index.md` will have the top text of the page.
-Under need an element will be created for every other markdown file (`2016.md`, `2017.md`, `2018.md` ect.).
-These are the list elements.
+[I am a link to google](google.com)
+![I am the alt text of the image for blind people or if the image does not load](/main_files/stage_5plus.png)
 
-If you want a new element in the list just add a new markdown file.
+### I am a sub sub header
 
-The main page will have the text of `index.md` and underneath a list with every other markdown file.
-Of these files the title and avatar is used.
-If you click it you will be brought to a page with the full text.
+- This
+- is
+- a
+- LIST!!!!
 
-- **Title** Name in the list and of the page
-- **data** will be used in the list
-- **publishdate** from what point it will be visable on the site (if in the future it will NOT be shown)
-- **weight** where in the list it will be placed (lowest number first)
-- **Image** needs to be name of an image in the folder `static/main_files`.
+{{< columns >}}
+{{< column "2/5" >}}
+I am the first column with a width of 2/5 of the page
+{{< /column >}}
 
-example:
+{{< column "1/5" >}}
+I am a smaller column but I have an image!
+![Main page logo](/main_files/stage_5plus.png)
+{{</ columns >}}
 
-```
----
-title: "CytoData 2017 - by Institute of Cancer Research"
-date: 2017-06-28
-publishdate: 1970-01-01
-weight: -2017
-image: ICRAvatar.jpg
----
+{{< column "2/5" >}}
+I am the third and last column.
+{{< /column >}}
 
-Here the text of page goes.
-# You can use markdown to style your text
-
-An image can be added like this.
-These image are in static/main_files/
-![CytoData banner](/./main_files/cytodata-banner.png)
-```
-
-## Create new page
-
-To make new page you need to make the folder and markdown, but also need to add it to `config.toml`.
-In there you find the menu.
-Add you new page to here, use the weight to set its position and you are done.
+{{</ columns >}}
 
 ```
-# Menu
-[menu]
-  [[menu.main]]
-    identifier = "symposiums"
-    name = "Symposiums"
-    url = "/symposiums"
-    weight = 10
 
-  [[menu.main]]
-    identifier = "resources"
-    name = "Resources"
-    url = "/resources"
-    weight = 20
-```
+# Launch a new version of the side
 
-## Change styling
-
-We now go out of the pure markdown and into html.
-In `\layouts` you can find the HTML used to make the page.
-
-The styling is done with `/partials/style.html` and [bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-A page will be rendered by the following logic:
-
-- The folder ONLY has a `_index.md` we use `_default/single.html`
-- The folder has an other markdown than `_index.md` we use `_default/list.html`. Even if `_index.md` is missing
-
-The page has multiple hugo elements `{{ . }}`.
-The `partial` are part of html in the folder `\partials` that are repeated.
-`.Title` means it takes the title from the markdown and uses it here.
-`.Content` is the content of the markdown.
-
-```html
-{{ partial "header.html" . }}
-
-<div class="container-fluid">
-  <h1>{{ .Title }}</h1>
-
-  {{ .Content }}
-</div>
-
-{{ partial "footer.html" . }}
-```
+Create pull request to main and complete it.
 
 # TODO
 
-markdown headers in column does not work
-summary language developement has unreadable characters
-Show list with dot infront
-padding around headers, p, list items
-bilingual uai contact in middle
-GB english should be only flag
-dropdown still with names
-
-make enters be enters
-placeholder pictures
+- favicon.ico
+- Image location
+- placeholder pictures
+- Logo in banner
+- Improve layout bullet point
