@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "nimke.nl" 
+baseURL = "/" 
 languageCode = "en-us"
 
 [languages.en]
