@@ -2,7 +2,7 @@
 title: "Nimke.nl - Intentioneel Meertalig & Meer"
 ---
 
-{{< columns >}}
+{{< columns "flex">}}
 
 {{< column "5/12 w-3/12" >}}
 ![Logo van Nimke punt nl. Persoon houd een baby vast terwijl die ook handen vasthoud met een kind](/images/Nimke_nl_logo_black.webp)
