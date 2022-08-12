@@ -2,7 +2,7 @@
 title: "Nimke.nl - Intentionally Bilingual & More"
 ---
 
-{{< columns >}}
+{{< columns "flex">}}
 
 {{< column "5/12 w-3/12" >}}
 ![Logo of Nimke dot nl. Person holding a baby while also holding hands with a child](/images/Nimke_nl_logo_black.webp)
