@@ -2,6 +2,8 @@
 baseURL = "https://www.nimke.nl/" 
 languageCode = "en-us"
 
+enableRobotsTXT = true
+
 [languages.en]
   title = "Nimke.nl"
   weight = 1
