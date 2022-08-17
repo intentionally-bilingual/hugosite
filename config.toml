@@ -29,6 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Site parameters
 [params]
+    instagramUrl = "https://www.instagram.com/nimke_nl/"
 
     # Meta
     description = "Intentionally Bilingual"
