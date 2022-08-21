@@ -24,7 +24,7 @@ The one `/content/_index.md` is for the main page (nimke.nl), `/content/contact/
 
 ```
 ---
-title: "This is the main tittle and what showns up if you list all items"
+title: "This is the main title and what showns up if you list all items"
 weight: 15 // lower weight means higher in the list (or farther to the left)
 image: IMAGENAME.jpg // The image name in static\main_files\IMAGENAME.jpg use for lists
 ---
@@ -68,7 +68,7 @@ I am the third and last column.
 
 ```
 
-# Launch a new version of the side
+# Launch a new version of the site
 
 Create pull request to main and complete it.
 
